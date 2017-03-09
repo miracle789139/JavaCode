@@ -16,7 +16,7 @@ package singletonPattern;
  * 四：枚举
  * 五：静态内部类
  * */
-//单例模式（懒汉，线程不安全）
+//单例模式（懒汉，线程不安全）*
 public class Test {
 
 	public static void main(String[] args) {
